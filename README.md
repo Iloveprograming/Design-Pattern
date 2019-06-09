@@ -1,7 +1,7 @@
 # Design-Pattern
 
 **创建型模式，共五种：工厂方法模式、抽象工厂模式、单例模式、建造者模式、原型模式。**  
-1. [简单工厂模式](https://github.com/Iloveprograming/Design-Pattern/blob/master/Creational-Pattern/%25E7%25AE%2580%25E5%258D%2595%25E5%25B7%25A5%25E5%258E%2582%25E6%25A8%25A1%25E5%25BC%258F.md)
+1. 
 2. 
 **结构型模式，共七种：适配器模式、装饰器模式、代理模式、外观模式、桥接模式、组合模式、享元模式。**
 
